@@ -26,6 +26,17 @@ matplotlib>=3.8.0
 # 专业金融 K 线图
 mplfinance>=0.12.10b0
 
+# === Dashboard 仪表板 ===
+
+# Web 应用框架
+streamlit>=1.29.0
+
+# 交互式图表
+plotly>=5.18.0
+
+# 自动刷新 (可选)
+streamlit-autorefresh>=1.0.0
+
 # === 可选依赖 ===
 
 # 美化终端输出 (可选)
