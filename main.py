@@ -181,6 +181,8 @@ class ShortSqueezeMonitor:
 ║  [Notify]  Telegram   : {telegram_status:<40}║
 ║  [Notify]  最大告警   : {TELEGRAM.MAX_ALERTS_PER_ROUND:>10}条/轮                             ║
 ║                                                                  ║
+║  [Data]    CSV存储    : data/*.csv                               ║
+║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
         """
         print(config_manifest)
